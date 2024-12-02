@@ -60,7 +60,7 @@ Seuraavaksi asenna sovelluksen riippuvuudet ja siirry virtuaaliympäristöön ko
 $ poetry install
 $ poetry shell
 ```
-Käynnistä sovellus komennolla 
+Käynnistä kunnolla sovellus komennolla 
 ```
 $ python3 src/index.py
 ```
